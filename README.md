@@ -17,7 +17,7 @@ Move Left: Left Arrow\
 Move Right: Right Arrow\
 Shoot: Right Shift
 
-General Controls:
+General Controls:\
 Escape: Quit the game
 # Screenshots
 Singleplayer
