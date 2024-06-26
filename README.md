@@ -19,7 +19,7 @@ Shoot: Right Shift
 
 General Controls:
 Escape: Quit the game
-
+# Screenshots
 ![image](https://github.com/ramanan-b-r/2D-Platformer-Game/assets/173793293/772f0ca9-d7fb-4520-9b49-ce6354b7fc29)
 ![image](https://github.com/ramanan-b-r/2D-Platformer-Game/assets/173793293/4d3e709f-5c5a-4bd9-877a-06d50fa2b048)
 ![image](https://github.com/ramanan-b-r/2D-Platformer-Game/assets/173793293/9c461e9c-bd67-429d-aef7-4a456f6cc194)
