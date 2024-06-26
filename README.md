@@ -5,10 +5,10 @@ This is a classic 2D platformer-style game with 3 platforms. The game has two mo
 
 Player 1 Controls:
 
-Jump: W
-Move Left: A
-Move Right: D
-Shoot: Left Shift
+Jump: W\
+Move Left: A\
+Move Right: D\
+Shoot: Left Shift\
 
 Player 2 Controls:
 
