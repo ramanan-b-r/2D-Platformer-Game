@@ -1,5 +1,6 @@
 import pygame
 import os 
+import time
 import sys
 def menu():
     pygame.init()
