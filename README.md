@@ -8,13 +8,13 @@ Player 1 Controls:
 Jump: W\
 Move Left: A\
 Move Right: D\
-Shoot: Left Shift\
+Shoot: Left Shift
 
 Player 2 Controls:
 
-Jump: Up Arrow
-Move Left: Left Arrow
-Move Right: Right Arrow
+Jump: Up Arrow\
+Move Left: Left Arrow\
+Move Right: Right Arrow\
 Shoot: Right Shift
 
 General Controls:
